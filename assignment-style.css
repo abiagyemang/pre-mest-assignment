@@ -1,0 +1,39 @@
+body{
+	margin: 0px;
+}
+
+#navbar{
+	padding: 1px;
+	margin: 0px;
+	width: 100%;
+	background-color: black;
+}
+
+#brand_text{
+	color: white;
+}
+
+ul{
+	list-style: none;
+	display: flex; 
+}
+
+#menu{
+	margin-top: 20px;
+	color: white;
+	margin-left: auto;
+	margin-right: 30px;
+	font-size: 18px;
+}
+
+
+#menu_item li{
+	margin-left: 20px;
+}
+
+img{
+	height: auto;
+	max-width: 550px;
+	min-width: 300px;
+	margin-left: 200px;
+}
